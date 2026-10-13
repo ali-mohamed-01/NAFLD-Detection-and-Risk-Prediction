@@ -311,7 +311,7 @@ The available endpoints and their exact request and response formats depend on t
 
 The application is deployed on **Hugging Face Spaces**.
 
-- **Live Demo:** [Open the deployed application]((https://alimoking2003-non-alcoholic-fatty-liver.hf.space))
+- **Live Demo:** [Open the deployed application](https://alimoking2003-non-alcoholic-fatty-liver.hf.space)
 - **GitHub Repository:** [View the source code](https://github.com/ali-mohamed-01/NAFLD-Detection-and-Risk-Prediction)
 
 Replace both placeholder URLs with the actual project links before publishing this README.
